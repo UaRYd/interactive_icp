@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/elder/Documents/code/interactive_icp/build",
+  "command": "/usr/bin/g++-5   -DDISABLE_LIBUSB_1_0 -DDISABLE_PCAP -DDISABLE_PNG -Dqh_QHpointer -isystem /usr/include/vtk-5.10 -isystem /usr/local/include/pcl-1.9 -isystem /usr/include/eigen3 -isystem /usr/include/ni -isystem /usr/include/openni2    -Wno-deprecated -O3 -DNDEBUG   -march=native -msse4.2 -mfpmath=sse -o CMakeFiles/interactive_icp.dir/interactive_icp.cpp.o -c /home/elder/Documents/code/interactive_icp/interactive_icp.cpp",
+  "file": "/home/elder/Documents/code/interactive_icp/interactive_icp.cpp"
+}
+]
